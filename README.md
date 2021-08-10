@@ -1,2 +1,1 @@
-# Secrets
-Authentication and Security basics with Passport, Passport-Google-OAuth
+# Authentication-Secrets
