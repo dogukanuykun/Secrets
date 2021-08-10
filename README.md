@@ -5,3 +5,5 @@ Authentication basics with Passport, Passport-Google-OAuth
 <img src="secrets.png"/>
 <br>
 <img src="login.png"/>
+<br>
+<img src="signInWithGoogle.png"/>
